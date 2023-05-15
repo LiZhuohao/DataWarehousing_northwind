@@ -1,13 +1,9 @@
 ---------------------------------------
---Data Warehousing Assignment 2 - Phase 2
+--Data Warehousing
 --My Northwind's DW ETL+DQ Script File
 --Student ID:   	1435523
 --Student Name: 	Zhuohao Li
---Student ID:   	1461636
---Student Name: 	Wen Zhu
---Student ID:   	1465386
---Student Name: 	Brandon Wen
-------------------------------------
+---------------------------------------
 
 print '***************************************************************'
 print '****** Section 1: Creating DW Tables'
