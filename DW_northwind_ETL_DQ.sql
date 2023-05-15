@@ -2,7 +2,7 @@
 --Data Warehousing
 --My Northwind's DW ETL+DQ Script File
 --Student ID:   	1435523
---Student Name: 	Zhuohao Li
+--Student Name: 	Zhuohao(Kasper) Li
 ---------------------------------------
 
 print '***************************************************************'
